@@ -8,7 +8,7 @@
 Why do deliveries run late, which orders get cancelled, and how much order value is lost?
 
 ## The data
-- Public food delivery dataset from Kaggle: **[add dataset name and link]**
+- Public food delivery dataset from Kaggle
 - 200 orders, 16 columns, 1-4 January 2025
 - No duplicate order IDs. The only missing values are the cancellation reasons on orders that were not cancelled.
 - Currency is not stated in the dataset, so amounts are shown without a symbol.
@@ -47,5 +47,5 @@ Why do deliveries run late, which orders get cancelled, and how much order value
 - 3 of the 12 orders cancelled for "Late Delivery" are flagged On-time in the data, so the reason coding needs a check at the source.
 
 ## Files
-- `Dataset.csv` - cleaned dataset
-- `sql_queries.sql` - all queries used
+- [Dataset_cleaned.csv](Dataset.csv) - cleaned dataset
+- [sql_queries.sql](sql_queries.sql) - all queries used
