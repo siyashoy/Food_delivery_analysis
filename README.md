@@ -59,3 +59,4 @@ Central is late most often and has the most cancellations. South is slowest on a
 ## Files
 - [Dataset_cleaned.csv](Dataset_cleaned.csv): the full 16-column dataset
 - [sql_queries.sql](sql_queries.sql): table setup and every query used, with comments
+- [Dataset_original.csv](Dataset_original.csv): original 10-column Kaggle file
